@@ -1,4 +1,4 @@
-# Cognifyz-Internship
+# Cognifyz DA Internship
 
 ---
 ## Level 1: Basic Restaurant Insights
